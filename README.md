@@ -3,9 +3,9 @@
 
 **Name of your app** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Daniel KALU**
 
-Time spent: **X** hours spent in total
+Time spent: **1:30** hours spent in total
 
 ## User Stories
 
